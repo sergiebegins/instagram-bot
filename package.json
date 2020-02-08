@@ -1,0 +1,16 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-posts": "^2.2.0",
+    "request": "^2.88.0"
+  }
+}
